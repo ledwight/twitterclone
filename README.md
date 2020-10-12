@@ -41,13 +41,19 @@ Upon running, the ```synchronize: true``` flag should automatically update your 
 
 ## Inside server folder
 Open up two consoles and run the following commands:
-```npm run watch```
-```npm run dev```
+```
+npm run watch
+```
+```
+npm run dev
+```
 Afterwards, navigate [here](https://localhost:4000/graphql) to open an interactive GraphQL UI
 
 ## Inside web folder
 Open up a console and run the following command:
-```npm run dev```
+```
+npm run dev
+```
 Afterwards, navigate [here](https://localhost:3000)
 
 ## License
